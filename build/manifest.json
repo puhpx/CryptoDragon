@@ -1,7 +1,23 @@
 {
   "build/main.css": "/build/main.css",
   "build/main.js": "/build/main.js",
-  "build/images/logo.png": "/build/images/logo.png",
+  "build/images/nft-name.png": "/build/images/nft-name.png",
+  "build/images/Avatar4-hover.png": "/build/images/Avatar4-hover.png",
+  "build/images/Avatar2-hover.png": "/build/images/Avatar2-hover.png",
+  "build/images/Avatar3-hover.png": "/build/images/Avatar3-hover.png",
+  "build/images/Avatar4.png": "/build/images/Avatar4.png",
+  "build/images/Avatar1-hover.png": "/build/images/Avatar1-hover.png",
+  "build/images/Avatar2.png": "/build/images/Avatar2.png",
+  "build/images/team-bg.jpg": "/build/images/team-bg.jpg",
+  "build/images/Avatar3.png": "/build/images/Avatar3.png",
+  "build/images/faq-bg.jpg": "/build/images/faq-bg.jpg",
+  "build/images/roadmap-bg.jpg": "/build/images/roadmap-bg.jpg",
+  "build/images/intro-bg.jpg": "/build/images/intro-bg.jpg",
+  "build/images/Avatar1.png": "/build/images/Avatar1.png",
   "build/images/fav.png": "/build/images/fav.png",
-  "build/images/preview.png": "/build/images/preview.png"
+  "build/images/preview.png": "/build/images/preview.png",
+  "build/images/discord.png": "/build/images/discord.png",
+  "build/images/twitter.png": "/build/images/twitter.png",
+  "build/images/x.png": "/build/images/x.png",
+  "build/images/burger.png": "/build/images/burger.png"
 }
